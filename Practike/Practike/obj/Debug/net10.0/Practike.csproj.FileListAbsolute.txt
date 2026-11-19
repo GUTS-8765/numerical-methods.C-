@@ -1,0 +1,15 @@
+C:\Users\РПО\source\repos\Practike\Practike\bin\Debug\net10.0\Practike.exe
+C:\Users\РПО\source\repos\Practike\Practike\bin\Debug\net10.0\Practike.deps.json
+C:\Users\РПО\source\repos\Practike\Practike\bin\Debug\net10.0\Practike.runtimeconfig.json
+C:\Users\РПО\source\repos\Practike\Practike\bin\Debug\net10.0\Practike.dll
+C:\Users\РПО\source\repos\Practike\Practike\bin\Debug\net10.0\Practike.pdb
+C:\Users\РПО\source\repos\Practike\Practike\obj\Debug\net10.0\Practike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\РПО\source\repos\Practike\Practike\obj\Debug\net10.0\Practike.AssemblyInfoInputs.cache
+C:\Users\РПО\source\repos\Practike\Practike\obj\Debug\net10.0\Practike.AssemblyInfo.cs
+C:\Users\РПО\source\repos\Practike\Practike\obj\Debug\net10.0\Practike.csproj.CoreCompileInputs.cache
+C:\Users\РПО\source\repos\Practike\Practike\obj\Debug\net10.0\Practike.dll
+C:\Users\РПО\source\repos\Practike\Practike\obj\Debug\net10.0\refint\Practike.dll
+C:\Users\РПО\source\repos\Practike\Practike\obj\Debug\net10.0\Practike.pdb
+C:\Users\РПО\source\repos\Practike\Practike\obj\Debug\net10.0\Practike.genruntimeconfig.cache
+C:\Users\РПО\source\repos\Practike\Practike\obj\Debug\net10.0\ref\Practike.dll
+C:\Users\РПО\source\repos\Practike\Practike\obj\Debug\net10.0\Practike.csproj.Up2Date
